@@ -1,3 +1,3 @@
 # CSC4110-assignment1
-**Name:** Kevin Kluka /n
+**Name:** Kevin Kluka  
 **Access ID:** AV7071
